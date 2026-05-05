@@ -1,0 +1,42 @@
+body {
+
+    margin: 0;
+    overflow: hidden;
+    background: #050505;
+    font-family: Georgia, serif;
+
+
+}
+
+#info {
+
+    position: fixed;
+    left: 24px;
+    bottom: 22px;
+    color: rgba(255, 245, 230, 0.75);
+    z-index: 2;
+    pointer-events: none;
+
+}
+
+#info h1 {
+    
+    margin: 0;
+    font-size: 22px;
+    font-weight: normal;
+    letter-spacing: 1px;
+
+}
+
+#info p {
+
+    margin: 6px 0 0 0;
+    font-size: 13px;
+    opacity: 0.65;
+
+
+}
+
+
+
+
